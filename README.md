@@ -1,4 +1,5 @@
-# Weatherstation
+# Weatherman
+Weatherman is a small weatherstation that connects with a wifi and measures data and outputs it into a website.
 ## Hardware Components
 * [ESP-32](https://www.az-delivery.com/en/products/esp-32-dev-kit-c-v4)
 * [BME 280](https://www.az-delivery.com/en/products/gy-bme280)
