@@ -1,0 +1,51 @@
+html {
+    height: 100%;
+}
+
+body {
+    color: rgba(255,255,255,255);
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    background-image: linear-gradient(rgba(135,200,225,255), rgb(80, 160, 190));
+}
+
+.bi-cloud-sun {
+    font-size: 20vmin;
+}
+
+.temperature {
+    font-size: 20vmin;
+}
+
+.subheader {
+    font-weight: 600;
+    opacity: 50%;
+}
+
+.subunit {
+    font-weight: 600;
+    opacity: 50%;
+    font-size: small;
+}
+
+.topcelsius {
+    font-weight: 600;
+    opacity: 50%;
+    font-size: 10vmin;
+}
+
+.subdata {
+    font-weight: 600;
+}
+
+.comma {
+    font-size: 10vmin;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: lightblue;
+}
